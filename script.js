@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const toggleBtn = document.getElementById("themeToggle");
 
 // Initialize theme based on local storage
@@ -112,4 +112,5 @@ function erase() {
 document.addEventListener("DOMContentLoaded", function () {
   if (textArray.length) setTimeout(type, newTextDelay);
 });
->>>>>>> 1a97f8b7e78d283b4d6b636eca9bf5b2271f9783
+
+
